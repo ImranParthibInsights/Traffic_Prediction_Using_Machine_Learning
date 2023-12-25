@@ -1,5 +1,4 @@
 # traffic_prediction
-DataSet Link:https://drive.google.com/file/d/1Ffg4qJIPIsJGh9qrkgMLC4jwtTOcS8xs/view?usp=sharing
 The Python script trains and evaluates classification models (Decision Tree, Random Forest, Logistic Regression, SVM, MLP) to predict traffic volume at different junctions. It calculates mean absolute error (MAE) and visualizes true versus predicted values for each model and junction.
 
 # Code Description
