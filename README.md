@@ -24,8 +24,11 @@ Make sure you have the following dependencies installed:
 
 Python 3.x
 Required Python packages(listed in 'requirements.txt')
+
 ![Alt text](image.png)
+
 # Usage
+
 Navigate to the project directory or go to terminal and paste this:-
 pip install -r requirements.txt
 
