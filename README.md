@@ -14,11 +14,11 @@ This project focuses on predicting traffic volume using machine learning techniq
 
 To get started with the project, you can clone the repository:
 
-# bash
+## bash
 
 git clone https://github.com/ImranParthibInsights/Traffic_Prediction_Using_Machine_Learning.git
 
-# Prerequisites
+## Prerequisites
 
 Make sure you have the following dependencies installed:
 
@@ -27,12 +27,12 @@ Required Python packages(listed in 'requirements.txt')
 
 ![Alt text](image.png)
 
-# Usage
+## Usage
 
 Navigate to the project directory or go to terminal and paste this:
 pip install -r requirements.txt
 
-# How to Contribute
+## How to Contribute
 
 If you're interested in contributing to the project, you can:
 
@@ -40,17 +40,13 @@ Fork the repository.
 Make your changes and enhancements.
 Submit a pull request.
 
-# Collaborate
-
-If you're interested in collaborating on this project or have suggestions, feel free to open an issue or reach out. Your insights are highly valued!
-
-# Repository Link
+## Repository Link
 
 The project is hosted on GitHub. You can find it at:
 
 https://github.com/ImranParthibInsights/Traffic_Prediction_Using_Machine_Learning
 
-# Ideas to Improve Our Traffic Prediction Script 🚀
+## Ideas to Improve Our Traffic Prediction Script 🚀
 
 Hey there! 👋 I've been thinking about how we can make our traffic prediction script even cooler and beginner-friendly. Here are some friendly suggestions:
 
@@ -66,6 +62,6 @@ Imagine telling a story with pictures—subplots for each junction and model cou
 4.Adding More Friends to the Evaluation Party:
 Beyond just checking for mistakes, let's invite more friends to the evaluation party. Accuracy, precision, and recall can join the MAE in giving us a complete picture of how our models are doing. It's like having a team of superheroes instead of just one!
 
-# LICENSE
+## LICENSE
 
 [MIT License](LICENSE)
