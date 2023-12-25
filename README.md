@@ -68,4 +68,4 @@ Beyond just checking for mistakes, let's invite more friends to the evaluation p
 
 #LICENSE
 
-([MIT License](LICENSE))
+[MIT License](LICENSE)
