@@ -65,3 +65,7 @@ Imagine telling a story with pictures—subplots for each junction and model cou
 
 4.Adding More Friends to the Evaluation Party:
 Beyond just checking for mistakes, let's invite more friends to the evaluation party. Accuracy, precision, and recall can join the MAE in giving us a complete picture of how our models are doing. It's like having a team of superheroes instead of just one!
+
+#LICENSE
+
+([MIT License](LICENSE))
