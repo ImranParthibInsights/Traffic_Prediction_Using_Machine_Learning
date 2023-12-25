@@ -29,7 +29,7 @@ Required Python packages(listed in 'requirements.txt')
 
 # Usage
 
-Navigate to the project directory or go to terminal and paste this:-
+Navigate to the project directory or go to terminal and paste this:
 pip install -r requirements.txt
 
 # How to Contribute
